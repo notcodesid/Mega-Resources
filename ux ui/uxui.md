@@ -1,0 +1,11 @@
+- https://pageflows.com/
+- https://www.microcopy.me/
+- https://www.uxdatabase.io/
+- https://builtformars.com/
+- https://heydesign.systems/
+- https://designsystemsrepo.com/
+- https://component.gallery/
+- https://uxarchive.com/
+- https://m2.material.io/
+- https://developer.apple.com/design/human-interface-guidelines/patterns
+- 
